@@ -1,0 +1,17 @@
+---------------------- WEB3.0 NFT MarketPlace ----------------------
+
+1 > Initial Setup ( on NFT Smart Contract File )
+npm init
+npx hardhat init
+npm install --save-dev "hardhat@^2.17.1" "@nomicfoundation/hardhat-toolbox@^3.0.0"
+
+go to the npmjs.com -> https://www.npmjs.com/package/@openzeppelin/contracts
+npm install @openzeppelin/contracts
+-------------------------------- DONE --------------------------------
+
+2 > 
+
+
+-------------------------------- DONE --------------------------------
+
+3 >
